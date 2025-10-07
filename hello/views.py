@@ -53,3 +53,12 @@ from django.shortcuts import render
 
 # def index(request):
 #     return render(request, "index.html", context={"site": "METANIT.COM"})
+from django.shortcuts import render
+# from .forms import UserForm
+# from django.shortcuts import render
+# from django.http import HttpResponse
+#
+#
+# def index(request):
+#     userform = UserForm()
+#     return render(request, "index.html", {"form": userform})
